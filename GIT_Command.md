@@ -116,4 +116,15 @@ git rm filename
  git branch --no-merged
  ```
 
+24. Check remote available or not
+```
+git remote
+```
+
+25. Check from where to push and pull
+```
+git remote -v
+```
+
 Remember to adapt these commands to your specific Git workflow and repository needs. Always use caution when performing operations that involve branch deletion or discarding changes.
+
