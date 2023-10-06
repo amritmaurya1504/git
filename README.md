@@ -116,4 +116,9 @@ git rm filename
  git branch --no-merged
  ```
 
+27. Delete remote branch
+```
+git push -d origin branchname
+```
+
 Remember to adapt these commands to your specific Git workflow and repository needs. Always use caution when performing operations that involve branch deletion or discarding changes.
